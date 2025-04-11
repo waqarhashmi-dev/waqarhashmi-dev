@@ -1,4 +1,4 @@
-# waqarhashmidev
+# waqarhashmi-dev
 
 # 👋 Hi, I'm Waqar Hashmi
 
