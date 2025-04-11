@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Waqar Hashmi
 
-🎯 A results-driven Full-Stack .NET Developer with 8+ years of experience building fast, secure, and scalable web and desktop applications using the Microsoft tech stack.
+🎯 I'm Full-Stack .NET Developer with 8+ years of experience building fast, secure, and scalable web and desktop applications using the Microsoft tech stack.
 
 ---
 
